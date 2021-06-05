@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-color: rgb(63, 163, 209);
+}
+h1{
+    color:#00008b;
+    font-size: 64px;
+}
+ p{
+     border:25px thistle solid;
+     padding: 10px
+ }
+ h2{ 
+     margin: 80px 67px 10px 32px;
+ }
+h3{
+    padding: 40px
+}
